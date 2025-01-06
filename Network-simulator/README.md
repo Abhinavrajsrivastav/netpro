@@ -15,11 +15,9 @@
 
 ## Description 
 
-FaPro is a Fake Protocol Server tool, Can easily start or stop multiple network services.
+netPro is a Fake Protocol Server tool, Can easily start or stop multiple network services.
 
 The goal is to support as many protocols as possible, and support as many deep interactions as possible for each protocol.
-
-[Demo Site](https://faweb.fofapro.com/)
 
 ## Features
 
