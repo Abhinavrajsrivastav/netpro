@@ -1,7 +1,7 @@
 
 <h1 align="center">
 <img src="docs/fapro.png" alt="" width="32" height="32"/>
-  FaPro
+  netPro
   <br>
 </h1>
 
@@ -11,7 +11,7 @@
 [![latest release version](https://img.shields.io/github/v/release/fofapro/fapro)](https://github.com/fofapro/fapro/releases)
 [![discord](https://img.shields.io/discord/891889408524038155?label=discord&logo=Discord&color=blue)](https://discord.gg/Eaz9dzV4AP)
 
-## [中文Readme](README-CN.md)
+## [Readme](README-CN.md)
 
 ## Description 
 
